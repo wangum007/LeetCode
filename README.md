@@ -1,1 +1,1 @@
-# LeetCode
+# LeetCode practice in C code
